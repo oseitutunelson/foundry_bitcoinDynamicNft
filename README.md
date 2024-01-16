@@ -1,2 +1,2 @@
-# foundry_bitcoinDynamicNft
-A dynamic nft based on bitcoin's current price
+# foundry_etherDynamicNft
+A dynamic nft based on ether's current price
